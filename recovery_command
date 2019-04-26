@@ -1,0 +1,4 @@
+boot-recovery
+--update_package=/cache/ota/ota_package.zip
+--wipe_cache
+reboot
